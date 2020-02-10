@@ -7,12 +7,12 @@ import tensorflow_docs as tfdocs
 
 
 
-data2803 = pd.read_csv('Data1/MgII2803data.txt', delimiter=' ', header = None)
-data2796 = pd.read_csv('Data1/MgII2796data.txt', delimiter=' ', header = None)
-labels = pd.read_csv('Data1/labels.txt', delimiter='\t', header = None)
+data2803 = pd.read_csv('../Data/Data1/MgII2803data.txt', delimiter=' ', header = None)
+data2796 = pd.read_csv('../Data/Data1/MgII2796data.txt', delimiter=' ', header = None)
+labels = pd.read_csv('../Data/Data1/labels.txt', delimiter='\t', header = None)
 
-data2803_2 = pd.read_csv('Data2/MgII2803data.txt', delimiter=' ', header = None)
-data2796_2 = pd.read_csv('Data2/MgII2796data.txt', delimiter=' ', header = None)
+data2803_2 = pd.read_csv('../Data/Data2/MgII2803data.txt', delimiter=' ', header = None)
+data2796_2 = pd.read_csv('../Data/Data2/MgII2796data.txt', delimiter=' ', header = None)
 
 label = []
 
