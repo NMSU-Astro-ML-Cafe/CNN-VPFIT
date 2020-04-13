@@ -1,4 +1,4 @@
 # CNN-VPFIT
-Attempting to use Convolutional Neural Networks to measure properties of CircumGalactic Clouds
+Attempting to use Convolutional Neural Networks to measure properties of circumgalactic clouds.
 
-Each member can have thier own folder to commit thier models to
+Each member can have their own folder to commit their models to.
